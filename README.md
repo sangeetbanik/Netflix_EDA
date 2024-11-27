@@ -64,6 +64,16 @@ My initial step was to check the individual tables one by one using Excel to det
 #### Trend of content released over years
 ![trend_years](https://github.com/user-attachments/assets/ff4073af-454b-4f1c-834d-f6d51fe7ca23)
 
+- Since 2015, there has been a marked increase in the volume of content added.
+- On 2019 and 2020, there has been a notable surge.
+
+#### Trend of content added over month
+![trend_movies](https://github.com/user-attachments/assets/b200b7d9-f113-41e1-aef7-d2f7361b844b)
+
+- The number of added contents seems to follow a seasonal trend.
+- **July** and **December** are the months with most addition of contents.
+
+
 
 
 
