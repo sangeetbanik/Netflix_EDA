@@ -59,18 +59,20 @@ My initial step was to check the individual tables one by one using Excel to det
 
 > 2. Which countries dominate in content production?
 #### Top countries that produce contents on Netlfix
-![countries](https://github.com/user-attachments/assets/976f7056-d680-49e8-a983-7a1da60ad89e)
+![countries](https://github.com/user-attachments/assets/215ebcfe-987e-4666-9765-d89be086dd0d)
+
 
 > 3. Which directors appear most frequently in Netflix productions?
 #### Top 10 Directors on Netflix
 ![directors](https://github.com/user-attachments/assets/f4f28427-ec5c-4bfe-9a11-05c2e6b6912c)
 
-> 4. What are the most popular genres and their co-occurrence patterns?
+> 4. What are the most popular genres?
 
 #### Most common Genres on Netflix
-![Genres](https://github.com/user-attachments/assets/8dcad298-1ea8-40b8-b810-57b356bbedbf)
+![Genres](https://github.com/user-attachments/assets/55a98c2c-34fa-43c4-8a65-70b668ec3d79)
 
-- The most frquently occurring genres on Netflix are :- International Movies, Dramas, Comedies, Action & Adventure, and Documentaries.
+
+- The most frquently occurring genres on Netflix are :- International Movies, Dramas, Comedies, International TV Shows,Documentaries and Action & Adventure.
 
 
 > 5. How does the release year compare to the date the content was added to the platform?
