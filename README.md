@@ -53,6 +53,22 @@ My initial step was to check the individual tables one by one using Excel to det
 #### Distribution of Content Types on Netflix
 ![output](https://github.com/user-attachments/assets/17ac057e-b67f-444c-9629-1c55c09c16d4)
 
+- **Movies** dominate the platform, making up approximately **69.6% (6131 contents)** of all contents.
+- **TV Shows** account for the remaining **30.4% (2676 contents)**.
+
+#### Most common Genres on Netflix
+![Genres](https://github.com/user-attachments/assets/8dcad298-1ea8-40b8-b810-57b356bbedbf)
+
+- The most frquently occurring genres on Netflix are :- International Movies, Dramas, Comedies, Action & Adventure, and Documentaries.
+
+#### Trend of content released over years
+![trend_years](https://github.com/user-attachments/assets/ff4073af-454b-4f1c-834d-f6d51fe7ca23)
+
+
+
+
+  
+
 
 
 
