@@ -164,7 +164,7 @@ View [NETFLIX Dashboard](https://public.tableau.com/app/profile/sangeet.banik/vi
 > 2. Majority of Netflix content originates from a few key countries and are mostly *Movies*. But, interestingly, there are some countries where *TV Shows* dominate over Movies. This indicates that in many highly developed Asian countries, there is a stronger focus on creating TV shows, likely driven by cultural preferences and a commitment to catering to local markets.
 > 3. Netflix stays competitive in the streaming market by quickly adding titles right after production, especially Netflix Originals.
 > 4. By featuring older titles, Netflix caters to a wide audience with diverse preferences.
-> 5. Netflix's catalog focuses on mature audiences, with TV-MA dominating. However, it offers diverse content for all ages. Regional ratings like NR deserve deeper analysis for global market insights.
+> 5. Netflix's catalog focuses on mature audiences, with *TV-MA* dominating. However, it offers diverse content for all ages. Regional ratings like NR deserve deeper analysis for global market insights.
 > 6. The popularity of *International Movies* and *TV Shows* highlights Netflix's efforts to grow its global audience.
 
 
