@@ -16,6 +16,7 @@ As a junior data analyst, my focus is on answering the following questions:-
 > 3. Which directors appear most frequently in Netflix productions?
 > 4. What are the most popular genres and their co-occurrence patterns?
 > 5. How does the release year compare to the date the content was added to the platform?
+> 6. What are the dominating Show Ratings?
 
 ### 2. Prepare
 #### 🔗 Quick Links
