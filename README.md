@@ -61,10 +61,46 @@ My initial step was to check the individual tables one by one using Excel to det
 #### Top countries that produce contents on Netlfix
 ![countries](https://github.com/user-attachments/assets/215ebcfe-987e-4666-9765-d89be086dd0d)
 
+-The Top countries are:-
+  - United States
+  - India
+  - United Kingdom
+  - Canada
+  - France
+  - Japan
+  - South Korea
+  - Germany
+  - Mexico
+  - Spain
+
+![countries_compare](https://github.com/user-attachments/assets/801ca0e4-153a-498d-a7e1-39b573ee2f5a)
+
+
+- Interestingly, there are some countries where TV Shows dominate over Movies. These include:
+  - Japan
+  - South Korea
+  - Taiwan
+  - Colombia
+  - Singapore 
+
+
+
 
 > 3. Which directors appear most frequently in Netflix productions?
 #### Top 10 Directors on Netflix
-![directors](https://github.com/user-attachments/assets/f4f28427-ec5c-4bfe-9a11-05c2e6b6912c)
+![directors](https://github.com/user-attachments/assets/b2be27c6-e3f2-447e-ba9d-8982922f452a)
+
+- The most frequently featured directors and their contributions to Netflix’s catalog.
+  - Rajiv Chilaka
+  - Raúl Campos
+  - Jan Suter
+  - Marcus Raboy
+  - Suhas Kadav
+  - Jay Karas
+  - Cathy Garcia-Molina
+  - Martin Scorsese
+  - Jay Chapman
+  - Youssef Chahine
 
 > 4. What are the most popular genres?
 
@@ -72,12 +108,22 @@ My initial step was to check the individual tables one by one using Excel to det
 ![Genres](https://github.com/user-attachments/assets/55a98c2c-34fa-43c4-8a65-70b668ec3d79)
 
 
-- The most frquently occurring genres on Netflix are :- International Movies, Dramas, Comedies, International TV Shows,Documentaries and Action & Adventure.
+- The most frquently occurring genres on Netflix are :-
+  - International Movies
+  - Dramas
+  - Comedies
+  - International TV Shows
+  - Documentaries
+  - Action & Adventure.
 
 
 > 5. How does the release year compare to the date the content was added to the platform?
 #### Distribution of Release-Add Differences with More Than 100 Titles
 ![distribution of relaese add diff](https://github.com/user-attachments/assets/ee98f793-f62f-4875-b9e0-7800515eaf35)
+
+**Immediate Access:** A large number of titles, especially Netflix Originals, are made available on the platform in the same year they’re produced, showcasing Netflix’s emphasis on delivering fresh and original content.
+
+**Timeless Classics:** The platform also adds many older titles, enhancing its library with a rich variety of classic and diverse options for viewers.
 
 #### Trend of content released over years
 ![trend_years](https://github.com/user-attachments/assets/ff4073af-454b-4f1c-834d-f6d51fe7ca23)
