@@ -137,9 +137,20 @@ My initial step was to check the individual tables one by one using Excel to det
 - The number of added contents seems to follow a seasonal trend.
 - **July** and **December** are the months with most addition of contents.
 
+> 6. What are the dominating Show Ratings?
+#### Distribution of content Ratings
+![ratings](https://github.com/user-attachments/assets/e65789a8-915b-4f73-aa72-d0aa01280fd2)
+
+- Overall Distribution:
+  - TV-MA leads the ratings, making up a significant portion of Netflix’s catalog.
+  - TV-14 and TV-PG follow, showing that Netflix appeals to a wide audience but primarily targets mature viewers.
+#### Distibution of Ratings by Type
+![movie_and_TV_ratings](https://github.com/user-attachments/assets/5924db35-1342-48b7-92d1-5ee2507ff4f2)
 
 
-
+- Ratings by Type:
+  - Movies tend to have a broader range of ratings, including R and PG-13, reflecting traditional film ratings.
+  - TV Shows are dominated by TV-MA and TV-14, highlighting a focus on episodic content for adults and teens.
 
   
 
