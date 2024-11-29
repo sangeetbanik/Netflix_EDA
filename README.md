@@ -46,7 +46,7 @@ The original dataset has 8,807 rows and 12 columns. To get it ready for analysis
 | 12     | description         | Details of the show                                     |          
 
 #### Data Wrangling
-My initial step was to check the individual tables one by one using Excel to determine the **data type** and to  uncover any **missing values, outliers, inconsistencies, and errors** within the tables. 
+My initial step was to check the dataset using Excel to determine the **data type** and to  uncover any **missing values, outliers, inconsistencies, and errors** within the tables. 
 - **Missing values** : Some columns, such as *director, cast, country, date_added, rating, and duration*, contain missing values.
 - **Inconsistency**  : The country column often includes multiple countries for a single title. To analyze content by production country more effectively, we applied a transformation.
 
