@@ -24,7 +24,7 @@ As a junior data analyst, my focus is on answering the following questions:-
 
 **Tools:** <br>
 - Data Wrangling - Excel & Python.
-- Exploratory Data analysis - Python
+- Exploratory Data analysis - Python.
 - Data visualization - [Tableau](https://public.tableau.com/app/profile/sangeet.banik/viz/Netflix_EDA/Dashboard1)
 
 ### 3. Process
